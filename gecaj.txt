@@ -1,0 +1,13 @@
+[outdoor_temperature]
+deg_C = "9.6"
+deg_F = "49.2"
+
+[indoor_humidity]
+percent = "38"
+
+[outdoor_humidity]
+percent = "68"
+
+[dewpoint]
+deg_C = "3.9"
+deg_F = "39.1"
